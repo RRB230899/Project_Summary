@@ -1,0 +1,7 @@
+---
+title: "TSMC Semiconductor Industry Analysis"
+---
+This website contains insights from the TSMC Semiconductor Industry Analysis.
+
+## Summary
+- **[View the Summary Notebook](Summary.ipynb)**

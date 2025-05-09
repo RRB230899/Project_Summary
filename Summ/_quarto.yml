@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Impact of Earthquakes on Supply Chain Resilience in Semiconductor Industry, Taiwan"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
